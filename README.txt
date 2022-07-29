@@ -1,0 +1,1 @@
+To run the test file, un-comment rows 32 to 36 in 'formulas.go' file, save file and type 'go test . ' in the terminal.
